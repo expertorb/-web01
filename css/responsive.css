@@ -1,0 +1,39 @@
+@media screen and (max-width: 640px){
+
+	.item h2{
+		font-size: 57px;
+	}
+
+	.about-icon{
+		max-width: 	290px;
+		margin: 30px auto;
+	}
+	.sevice-image{
+		max-width: 	290px;
+		margin: 30px auto;
+	}
+	.element-item{
+		width: 50%;
+	}
+	.pricingrate{
+		max-width: 	290px;
+		margin: 30px auto;
+	}
+	.content{
+		max-width: 	290px;
+		margin: 30px auto;
+	}
+	.up{
+		height: 717px;
+
+	}
+	.text_footer{
+		float: left;
+	}
+
+}
+@media screen and (max-width: 480px){
+	.element-item{
+		width: 100%;
+	}
+}
